@@ -5,7 +5,7 @@
 bvids=("BV1TJ4m1K7HL" "BV1PZ421E7jr" "BV1oC411774P" "BV1zs421P7ee" "BV1tm411C79F" "BV1L1421X7i1" "BV1rw4m127oq")
 
 # Chrome配置文件数
-profiles=("Default")
+profiles=("Default" "Profile 2" "Profile 3")
 
 # 单个浏览器同时播放视频数量, 建议设置在6左右, 不然电脑会很卡
 multisize=7
